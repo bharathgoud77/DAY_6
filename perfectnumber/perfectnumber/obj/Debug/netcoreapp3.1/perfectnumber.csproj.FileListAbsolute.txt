@@ -1,0 +1,14 @@
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\obj\Debug\netcoreapp3.1\perfectnumber.csproj.AssemblyReference.cache
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\obj\Debug\netcoreapp3.1\perfectnumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\obj\Debug\netcoreapp3.1\perfectnumber.AssemblyInfoInputs.cache
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\obj\Debug\netcoreapp3.1\perfectnumber.AssemblyInfo.cs
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\obj\Debug\netcoreapp3.1\perfectnumber.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\bin\Debug\netcoreapp3.1\perfectnumber.exe
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\bin\Debug\netcoreapp3.1\perfectnumber.deps.json
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\bin\Debug\netcoreapp3.1\perfectnumber.runtimeconfig.json
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\bin\Debug\netcoreapp3.1\perfectnumber.runtimeconfig.dev.json
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\bin\Debug\netcoreapp3.1\perfectnumber.dll
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\bin\Debug\netcoreapp3.1\perfectnumber.pdb
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\obj\Debug\netcoreapp3.1\perfectnumber.dll
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\obj\Debug\netcoreapp3.1\perfectnumber.pdb
+E:\fellowship\DAY_6\perfectnumber\perfectnumber\obj\Debug\netcoreapp3.1\perfectnumber.genruntimeconfig.cache
