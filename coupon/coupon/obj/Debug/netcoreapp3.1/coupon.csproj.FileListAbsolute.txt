@@ -1,0 +1,14 @@
+E:\fellowship\DAY_6\coupon\coupon\obj\Debug\netcoreapp3.1\coupon.csproj.AssemblyReference.cache
+E:\fellowship\DAY_6\coupon\coupon\obj\Debug\netcoreapp3.1\coupon.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_6\coupon\coupon\obj\Debug\netcoreapp3.1\coupon.AssemblyInfoInputs.cache
+E:\fellowship\DAY_6\coupon\coupon\obj\Debug\netcoreapp3.1\coupon.AssemblyInfo.cs
+E:\fellowship\DAY_6\coupon\coupon\obj\Debug\netcoreapp3.1\coupon.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_6\coupon\coupon\bin\Debug\netcoreapp3.1\coupon.exe
+E:\fellowship\DAY_6\coupon\coupon\bin\Debug\netcoreapp3.1\coupon.deps.json
+E:\fellowship\DAY_6\coupon\coupon\bin\Debug\netcoreapp3.1\coupon.runtimeconfig.json
+E:\fellowship\DAY_6\coupon\coupon\bin\Debug\netcoreapp3.1\coupon.runtimeconfig.dev.json
+E:\fellowship\DAY_6\coupon\coupon\bin\Debug\netcoreapp3.1\coupon.dll
+E:\fellowship\DAY_6\coupon\coupon\bin\Debug\netcoreapp3.1\coupon.pdb
+E:\fellowship\DAY_6\coupon\coupon\obj\Debug\netcoreapp3.1\coupon.dll
+E:\fellowship\DAY_6\coupon\coupon\obj\Debug\netcoreapp3.1\coupon.pdb
+E:\fellowship\DAY_6\coupon\coupon\obj\Debug\netcoreapp3.1\coupon.genruntimeconfig.cache
