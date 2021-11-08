@@ -1,0 +1,14 @@
+E:\fellowship\DAY_6\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.exe
+E:\fellowship\DAY_6\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.deps.json
+E:\fellowship\DAY_6\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.runtimeconfig.json
+E:\fellowship\DAY_6\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.runtimeconfig.dev.json
+E:\fellowship\DAY_6\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.dll
+E:\fellowship\DAY_6\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.pdb
+E:\fellowship\DAY_6\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.csproj.AssemblyReference.cache
+E:\fellowship\DAY_6\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_6\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.AssemblyInfoInputs.cache
+E:\fellowship\DAY_6\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.AssemblyInfo.cs
+E:\fellowship\DAY_6\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_6\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.dll
+E:\fellowship\DAY_6\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.pdb
+E:\fellowship\DAY_6\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.genruntimeconfig.cache
