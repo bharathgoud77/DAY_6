@@ -1,0 +1,14 @@
+E:\fellowship\DAY_6\prime\prime\bin\Debug\netcoreapp3.1\prime.exe
+E:\fellowship\DAY_6\prime\prime\bin\Debug\netcoreapp3.1\prime.deps.json
+E:\fellowship\DAY_6\prime\prime\bin\Debug\netcoreapp3.1\prime.runtimeconfig.json
+E:\fellowship\DAY_6\prime\prime\bin\Debug\netcoreapp3.1\prime.runtimeconfig.dev.json
+E:\fellowship\DAY_6\prime\prime\bin\Debug\netcoreapp3.1\prime.dll
+E:\fellowship\DAY_6\prime\prime\bin\Debug\netcoreapp3.1\prime.pdb
+E:\fellowship\DAY_6\prime\prime\obj\Debug\netcoreapp3.1\prime.csproj.AssemblyReference.cache
+E:\fellowship\DAY_6\prime\prime\obj\Debug\netcoreapp3.1\prime.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_6\prime\prime\obj\Debug\netcoreapp3.1\prime.AssemblyInfoInputs.cache
+E:\fellowship\DAY_6\prime\prime\obj\Debug\netcoreapp3.1\prime.AssemblyInfo.cs
+E:\fellowship\DAY_6\prime\prime\obj\Debug\netcoreapp3.1\prime.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_6\prime\prime\obj\Debug\netcoreapp3.1\prime.dll
+E:\fellowship\DAY_6\prime\prime\obj\Debug\netcoreapp3.1\prime.pdb
+E:\fellowship\DAY_6\prime\prime\obj\Debug\netcoreapp3.1\prime.genruntimeconfig.cache
